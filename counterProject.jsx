@@ -11,7 +11,7 @@ function App() {
     console.log(counter);
   }
   let subValue = () => {
-    setCounter(counter - 1)
+    counter = counter === 0 ? 0 : setCounter(counter - 1)
     console.log(counter);
   }
   return (
