@@ -1,2 +1,2 @@
-# react
-Repo where I progress over react programs
+# React and its Libraries
+Repo where I progress over React in Js
