@@ -1,6 +1,6 @@
 import Adhyan from "./adhyan"
 
-function App() {
+const Ap = () => {
   return (
     <>
       <h1>Welcome to ViteReact | Adhyan8p</h1>
