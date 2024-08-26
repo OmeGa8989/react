@@ -1,6 +1,6 @@
 function Adhyan() {
     return (
-        <h2>This is Adhyan.| React Basic Rendering</h2>
+        <h2>This is Adhyan.| React Basic Rendering Element</h2>
     )
 }
 
